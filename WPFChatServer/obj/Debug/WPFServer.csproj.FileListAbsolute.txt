@@ -1,0 +1,58 @@
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\WPFChatServer\WPFChatServer\bin\Debug\WPFChatServer.exe.config
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\WPFChatServer\WPFChatServer\bin\Debug\WPFChatServer.exe
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\WPFChatServer\WPFChatServer\bin\Debug\WPFChatServer.pdb
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\WPFChatServer\WPFChatServer\obj\Debug\MainWindow.g.cs
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\WPFChatServer\WPFChatServer\obj\Debug\App.g.cs
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer_MarkupCompile.cache
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer_MarkupCompile.lref
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\WPFChatServer\WPFChatServer\obj\Debug\MainWindow.baml
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer.g.resources
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer.Properties.Resources.resources
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\WPFChatServer\WPFChatServer\obj\Debug\WPFServer.csproj.GenerateResource.cache
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\WPFChatServer\WPFChatServer\obj\Debug\WPFServer.csproj.CoreCompileInputs.cache
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer.exe
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer.pdb
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Lecture15a\WPFChatServer\WPFChatServer\bin\Debug\WPFChatServer.exe.config
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Lecture15a\WPFChatServer\WPFChatServer\bin\Debug\WPFChatServer.exe
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Lecture15a\WPFChatServer\WPFChatServer\bin\Debug\WPFChatServer.pdb
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Lecture15a\WPFChatServer\WPFChatServer\obj\Debug\WPFServer.csprojAssemblyReference.cache
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Lecture15a\WPFChatServer\WPFChatServer\obj\Debug\MainWindow.g.cs
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Lecture15a\WPFChatServer\WPFChatServer\obj\Debug\App.g.cs
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Lecture15a\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer_MarkupCompile.cache
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Lecture15a\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer_MarkupCompile.lref
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Lecture15a\WPFChatServer\WPFChatServer\obj\Debug\MainWindow.baml
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Lecture15a\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer.g.resources
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Lecture15a\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer.Properties.Resources.resources
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Lecture15a\WPFChatServer\WPFChatServer\obj\Debug\WPFServer.csproj.GenerateResource.cache
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Lecture15a\WPFChatServer\WPFChatServer\obj\Debug\WPFServer.csproj.CoreCompileInputs.cache
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Lecture15a\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer.exe
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Lecture15a\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer.pdb
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Labs\Lab15F18\WPFChatServer\WPFChatServer\bin\Debug\WPFChatServer.exe.config
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Labs\Lab15F18\WPFChatServer\WPFChatServer\bin\Debug\WPFChatServer.exe
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Labs\Lab15F18\WPFChatServer\WPFChatServer\bin\Debug\WPFChatServer.pdb
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Labs\Lab15F18\WPFChatServer\WPFChatServer\obj\Debug\WPFServer.csprojAssemblyReference.cache
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Labs\Lab15F18\WPFChatServer\WPFChatServer\obj\Debug\MainWindow.g.cs
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Labs\Lab15F18\WPFChatServer\WPFChatServer\obj\Debug\App.g.cs
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Labs\Lab15F18\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer_MarkupCompile.cache
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Labs\Lab15F18\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer_MarkupCompile.lref
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Labs\Lab15F18\WPFChatServer\WPFChatServer\obj\Debug\MainWindow.baml
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Labs\Lab15F18\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer.g.resources
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Labs\Lab15F18\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer.Properties.Resources.resources
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Labs\Lab15F18\WPFChatServer\WPFChatServer\obj\Debug\WPFServer.csproj.GenerateResource.cache
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Labs\Lab15F18\WPFChatServer\WPFChatServer\obj\Debug\WPFServer.csproj.CoreCompileInputs.cache
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Labs\Lab15F18\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer.exe
+E:\eug\esc\_CSharp\FMICS\CSF18\w15\Labs\Lab15F18\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer.pdb
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\WPFChatServer\WPFChatServer\WPFChatServer\bin\Debug\WPFChatServer.exe.config
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\WPFChatServer\WPFChatServer\WPFChatServer\bin\Debug\WPFChatServer.exe
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\WPFChatServer\WPFChatServer\WPFChatServer\bin\Debug\WPFChatServer.pdb
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\WPFChatServer\WPFChatServer\WPFChatServer\obj\Debug\WPFServer.csprojAssemblyReference.cache
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\WPFChatServer\WPFChatServer\WPFChatServer\obj\Debug\MainWindow.g.cs
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\WPFChatServer\WPFChatServer\WPFChatServer\obj\Debug\App.g.cs
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\WPFChatServer\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer_MarkupCompile.cache
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\WPFChatServer\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer_MarkupCompile.lref
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\WPFChatServer\WPFChatServer\WPFChatServer\obj\Debug\MainWindow.baml
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\WPFChatServer\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer.g.resources
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\WPFChatServer\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer.Properties.Resources.resources
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\WPFChatServer\WPFChatServer\WPFChatServer\obj\Debug\WPFServer.csproj.GenerateResource.cache
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\WPFChatServer\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer.exe
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\WPFChatServer\WPFChatServer\WPFChatServer\obj\Debug\WPFChatServer.pdb

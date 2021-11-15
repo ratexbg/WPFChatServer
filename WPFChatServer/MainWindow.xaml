@@ -1,0 +1,23 @@
+﻿<Window x:Class="WPFChatServer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFChatServer"
+        mc:Ignorable="d"
+        Title="Chat server" Height="492.483" Width="519.675"  Closing="Window_Closing">
+    <Grid  >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="49*"/>
+            <RowDefinition Height="412*"/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="TxtInput" HorizontalAlignment="Left" Height="27"
+                 Margin="8" TextWrapping="NoWrap" VerticalAlignment="Top" 
+                 Width="488" VerticalScrollBarVisibility="Disabled" FontWeight="Bold" MaxLines="1"  
+                 IsEnabled="False"   KeyDown="TxtInput_KeyDown"/>
+        <TextBox x:Name="TxtDisplay" HorizontalAlignment="Left" Height="394" 
+                 Margin="8,4,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" 
+                 Width="488" VerticalScrollBarVisibility="Auto" FontWeight="Bold" 
+                 AcceptsReturn="True" AcceptsTab="True"/>
+    </Grid>
+</Window>
